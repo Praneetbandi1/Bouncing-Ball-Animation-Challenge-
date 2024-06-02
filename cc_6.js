@@ -1,6 +1,6 @@
 //JavaScript file (script. js)
-const canvas = ducment.getElementById(`canvas`);
-const ctx = canvas.getcontext(`2d`);
+const canvas = document.getElementById(`canvas`);
+const ctx = canvas.getContext(`2d`);
 
 
 
@@ -14,14 +14,11 @@ class Ball {
         this.color = color;
 
     }
-}
 
-draw(); {
-        ctx.beginPath();
-    ctx.arc(this.x,this.y,this.radius,0.2 * Math.PI);
-    ctx.fillStyle=this.color;
-    ctx.fill();
 
 }
+
+
+    
 
 
