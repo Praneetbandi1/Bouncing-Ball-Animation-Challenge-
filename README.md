@@ -1,1 +1,2 @@
 # Bouncing-Ball-Animation-Challenge-
+ This project was about setting up an HTML canvas with a javascript file in order to show the animation of a bouncing ball. Update methods and a draw method/setInterval was used  in order to implement a ball animation.  A constructior was created and  there was a method implemented within the ball constructor to make a drawing of the mall. The test data included the values  for x,y, the  properties of  radius, dx and dy for the color red.  
